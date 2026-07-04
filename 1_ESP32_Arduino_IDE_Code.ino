@@ -66,7 +66,7 @@ unsigned long detectInterval = 10000;
 // ==========================================================
 // Fire Detection Parameters
 // ==========================================================
-const float FIRE_TEMPERATURE = 35.0;
+const float FIRE_TEMPERATURE = 45.0;
 
 // ==========================================================
 // Sensor Variables
